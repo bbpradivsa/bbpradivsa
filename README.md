@@ -6,5 +6,4 @@
 * **JURUSAN : Teknik Elektro**
 
 ### HACKERRANK PROFILE
-
-
+![gambarmantep](/assets/images/Screenshot (1355).png)
